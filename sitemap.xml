@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <!-- Home Page -->
+   <url>
+      <loc>https://www.yourwebsite.com/</loc>
+      <lastmod>2026-04-09</lastmod>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Services Page (if separate) -->
+   <url>
+      <loc>https://www.yourwebsite.com/services.html</loc>
+      <lastmod>2026-04-09</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Location Page (if separate) -->
+   <url>
+      <loc>https://www.yourwebsite.com/location.html</loc>
+      <lastmod>2026-04-09</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Reviews Page (if separate) -->
+   <url>
+      <loc>https://www.yourwebsite.com/reviews.html</loc>
+      <lastmod>2026-04-09</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+</urlset>
